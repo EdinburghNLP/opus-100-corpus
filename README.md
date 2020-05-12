@@ -37,6 +37,10 @@ Running the scripts will result in a different corpus each time due to the rando
 
 Note that these scripts produce training, development, and test data for the zero-shot pairs as well as the supervised language pairs. The training and development data can be used for training contrastive supervised systems for those pairs, if desired (only the test sets were used in [2]).
 
+Pre-trained Models
+------------------
+
+Pre-trained many-to-many models, trained with the [zero](https://github.com/bzhangGo/zero) toolkit, are available [here](https://github.com/bzhangGo/zero/tree/master/docs/multilingual_laln_lalt#pretrained-multilingual-models-many-to-many). Detailed results for all translation directions for these models can be found [here](https://github.com/bzhangGo/zero/blob/master/docs/multilingual_laln_lalt/many-to-many.xlsx).
 
 Acknowledgements
 ----------------
