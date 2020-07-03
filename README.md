@@ -5,7 +5,7 @@ OPUS-100 is an English-centric multilingual corpus covering 100 languages. It wa
 
 This repository contains the scripts used to produce the corpus. The corpus itself can be found at
 
-    http://data.statmt.org/opus-100-corpus/v1.0
+    http://opus.nlpl.eu/opus-100.php
 
 OPUS-100 was used for the experiments in the paper "Improving Massively Multilingual Neural Machine Translation and Zero-Shot Translation" [2]. Please cite that paper if you use this corpus.
 
